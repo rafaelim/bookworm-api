@@ -24,7 +24,8 @@
           "extensions": [
             ".js",
             ".jsx"
-          ]
+          ],
+          "no-underscore-dangle": { "allow": [ "_id"]}
         }
       ]
     }
